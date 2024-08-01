@@ -4,3 +4,6 @@ h1{
   margin:10px;
   margin-bottom: 20px;
 }
+input{
+  width: 100%;
+}
